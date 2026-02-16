@@ -101,8 +101,8 @@ Backend APIs are protected using JWT validation
 No user registration functionality is implemented as per assignment req
 
 c4 diagram
-
-<img width="1782" height="1570" alt="Untitled diagram-2026-02-12-164836" src="https://github.com/user-attachments/assets/e7b339be-82fb-4120-9024-93086f027df1" />
+fd
+<img width="1108" height="954" alt="image" src="https://github.com/user-attachments/assets/0ad4e5e1-dcdd-40ad-8655-4d104ee0768b" />
 
 
 
